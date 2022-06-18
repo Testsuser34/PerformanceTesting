@@ -19,7 +19,8 @@ Pre-reqiests for "API Project Using Python":
 5) install request package by run the command from cmd "pip install requests"
 
 
-
+**Note:**
+Please refer the screenshots
 
 
 ----------------------------------------------------------------------
@@ -30,3 +31,7 @@ Pre-reqiests for "API Project Using JMeter":
 1) Download the file "API_Project_Using_JMeter.jmx" from github
 2) open the file in JMeter tool
 3) Run the test
+
+
+**Note:**
+Please refer the screenshots
