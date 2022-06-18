@@ -2,7 +2,7 @@
 
 
 
-API Project Using Python:
+**API Project Using Python:**
 
 
 In this folder, there are two different ways to create and run the automated test with the listed acceptance criteria
@@ -25,7 +25,7 @@ Please refer the screenshots
 
 ----------------------------------------------------------------------
 
-API Project Using JMeter:
+**API Project Using JMeter:**
 
 Pre-reqiests for "API Project Using JMeter":
 1) Download the file "API_Project_Using_JMeter.jmx" from github
